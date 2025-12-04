@@ -56,7 +56,7 @@ Ensure the following are installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/proctoring-system.git
+   git clone https://github.com/icarus-20s/eproctor.git
    cd proctoring-system/backend
    ```
 
