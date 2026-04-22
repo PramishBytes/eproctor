@@ -1,4 +1,4 @@
-Sure, Icarus. Here's a simplified and professional version of your README:
+
 
 ---
 
